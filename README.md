@@ -1,33 +1,57 @@
-# Project
+# Azure AI Foundry Developer Community
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+![Foundry Community](./images/repo-thumbnail.png)
 
-As the maintainer of this project, please make a few updates:
+## Never build alone, join the community! 
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+### Get Started By: 
 
-## Contributing
+1. Join **over 25,000 other developers** in the Discord and GitHub Discussions on the [Community Links](#-community-links)
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+2. Attend the [Upcoming Events](#-upcoming-events) hosted by our teams at Microsoft to give you the latest updates on Azure AI Foundry and **answer your questions.**
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+3. Complete on our **free open source** [Courses](#-courses) to build fundamental skills in AI and AI Agents.
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+4. Use one of our [Code Samples](#-code-samples) to start building **your own AI applications.**
 
-## Trademarks
+## 🔗 Community Links
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+### [Discord](https://discord.gg/aHu7bGMPcX)
+
+Chat with other developers and AI Engineers, attend live community sessions hosted by Azure product teams and get support from product experts.
+
+[![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://discord.gg/kzRShWzttr)
+
+### [GitHub](https://aka.ms/community/gh-discussions)
+
+Get your questions answered about Azure AI Foundry, share your feedback, and discuss ideas with the community.
+
+## 📆 Upcoming Events
+
+| **Event Name**                                                                                     | **Description**                                                                                                                                                                                                                                                                     | **Date and Location**            |
+|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| [.NET + AI - Weekly Office Hours](https://discord.com/events/1113626258182504448/1382069778834788404/1384223499878400000)         | Join us every Monday for an .NET + AI Office Hours. Come with your questions or just listen in - it's a great chance to connect, share, and learn together!                                                                                                                          | Monday, June 16th 2025 - Discord |
+| [Foundry Models AMA - Advanced Reasoning Models](https://discord.com/events/1113626258182504448/1382860017660854372) | Want to learn advanced techniques to improve AI's reasoning and problem-solving skills, enabling smarter and more efficient decision-making Join us as we talk to Marlene Mhangamiabout her work building a Deep Researcher using Deep Seek R1 and LangChain.                        | Friday, June 20th 2025 - Discord |
+| [Foundry Models AMA - Model Context Protocol](https://discord.com/events/1113626258182504448/1382860621137317948)    | Want to learn how Model Context Protocol works and how to leverage MCP in a more effective way to extend the capabilities of your AI models and agents? Join us as we talk to Den Delimarsky about the MCP specification, security considerations and usage within Microsoft Azure. | Friday, June 27th 2025 - Discord |
+
+## 📕 Courses
+
+| **Course Name**                                                                         | **Description**                                                                                                                                                                 |
+|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)         | 11 Lessons teaching everything you need to know to start building AI Agents.                                                                                                    |
+| [MCP For Beginners](https://github.com/microsoft/mcp-for-beginners)                     | Whether you're an AI developer, system architect, or software engineer, this guide is your comprehensive resource for mastering MCP fundamentals and implementation strategies. |
+| [Generative AI for Beginners](https://github.com/Microsoft/generative-ai-for-beginners) | Learn the fundamentals of building Generative AI applications with our 21-lesson comprehensive course by Microsoft Cloud Advocates.                                             |
+
+
+## 🚀 Code Samples
+
+| **Repo**                                                                                                                  | **Description**                                                                                                                                                                                                                                                                                                                  |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Azure AI Travel Agents with Llamaindex.TS and MCP](https://github.com/Azure-Samples/azure-ai-travel-agents)              | The AI Travel Agents is a robust enterprise application that leverages multiple AI agents to enhance travel agency operations. The application demonstrates how LlamaIndex.TS orchestrates multiple AI agents to assist employees in handling customer queries, providing destination recommendations, and planning itineraries. |
+| [JS AI Build-a-thon](https://github.com/Azure-Samples/JS-AI-Build-a-thon?tab=readme-ov-file)                              | 9 Unique Hands-On Quests for JS/ TS Developers to Build AI Apps on Azure AI Foundry, and gain a deeper understanding of AI Technologies, Tools and Frameworks.                                                                                                                                                                   |
+| [Getting Started with Agents Using Azure AI Foundry](https://github.com/Azure-Samples/get-started-with-ai-agents)         | The agent leverages the Azure AI Agent service and utilizes file search for knowledge retrieval from uploaded files, enabling it to generate responses with citations. The solution also includes built-in monitoring capabilities with tracing to ensure easier troubleshooting and optimized performance.                      |
+| [RAG Time: Ultimate Guide to Mastering RAG](https://github.com/microsoft/rag-time)                                        | Master RAG with RAG Time! Learn how to build smarter AI applications with Retrieval-Augmented Generation. This repo includes step-by-step guides, live coding samples, and expert insights—everything you need to go from beginner to RAG pro!                                                                                   |
+| [RAG chat app with Azure OpenAI and Azure AI Search (Python)](https://github.com/Azure-Samples/azure-search-openai-demo>) | This solution creates a ChatGPT-like frontend experience over your own documents using RAG (Retrieval Augmented Generation). It uses Azure OpenAI Service to access GPT models, and Azure AI Search for data indexing and retrieval.                                                                                             |
+
+
+
