@@ -20,7 +20,7 @@
 
 Chat with other developers and AI Engineers, attend live community sessions hosted by Microsoft product teams and get support from product experts.
 
-[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/kzRShWzttr)](https://discord.gg/kzRShWzttr)
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/microsoftfoundry)](https://discord.gg/microsoftfoundry)
 
 ### [GitHub](https://aka.ms/foundry/forum)
 
